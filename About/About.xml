@@ -4,6 +4,7 @@
   <packageId>NightKosh.SlaveOutfitFix</packageId>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <description>Slaves can wear slave collars and slave straps and be happily nude. Also moves the slave strap apparel to the middle slot.</description>
 </ModMetaData>
